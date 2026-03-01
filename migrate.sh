@@ -1,0 +1,1 @@
+psql -d lighthouse -f migrations/001_init.sql
